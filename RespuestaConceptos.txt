@@ -1,0 +1,19 @@
+* Variables - has de cuenta que hay una sola persona en la piscina, esa persona es la variable y el espacio
+de la piscina es la memoria. A la piscina llegan muchos elementos que interactuan con ella como niños, flotadores,
+entre otros que a la final resultan ser información y para diferenciarlos utilizamos variableslas que a la final 
+me está guardando un factor caracteristico de información.
+* Strings - te puedo decir que son cadenas de texto que representan una idea o una función, no necesariamente tienen
+sentido al intetarlas leer, pero par los sistemas de información va a ser muy util a recibir una instrucción de 
+ejecucion.
+*(argumentos, `return`) - Para que entiendas los argumentos, te puedo decir que son la entrada de una función o 
+una ejecución que debe hacer el sistema. Es como cuando tienes tiempo libre y deseas hacer algo; llegan a tu cabeza 
+ideas como jugar futbol, ver una pelicula o leer un libro. el argumento sería a la final la actividad que realizaste.
+Para el return y continuenado con la idea aterior, será una señal especial que recibirá tu cerebro para finalizxar 
+con dicha actividad. 
+* Declaraciones `if` - Para los sistemas de información existe un conjunto de palabras o sintaxis que van a 
+permitir ser relacionados a traves de una instrucción que reciba de alguna terminal del sistema. para este caso 
+el 'if' para el sistema va a ser interpretado como una condición con dos alternativas para realizar y dependiendo de
+su estado tomará la opción mas mas conveniente.
+* Valores booleanos (`true`, `false`) - Como sabes en la vida debemos tomar desiciones que se resuelven con un 
+simple 'si' o un simple 'no', con un verdadero o con un falso, lo utilizamos para afimar o negar alguna situción. 
+Para los sistemas funciona de una forma similar al querer validar y conocer un estado gfinal
